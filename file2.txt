@@ -1,1 +1,4 @@
-This is my 2nd file
+new line added in file2.txt locally
+ one more line added in file2.txt
+new line in file2.txt
+bug fix in file2.txt
